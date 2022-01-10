@@ -1,4 +1,4 @@
-## preWork
+## prework
 
 ### App Description
 Fully functional app that allows users to interact and customize its appearance based on their prefernce. 
