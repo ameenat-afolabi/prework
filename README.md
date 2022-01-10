@@ -7,7 +7,7 @@ screens' background with the use of the functional buttons on the screen. After 
 able to revert to the apps default appearance by clicking on the screens background.
 
 ### App Walk-though
-<img src="https://imgur.com/juGNlET" width=200><br>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="LT1Yvfp"><a href="https://imgur.com/LT1Yvfp">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
 
 
 
