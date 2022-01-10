@@ -7,7 +7,8 @@ screens' background with the use of the functional buttons on the screen. After 
 able to revert to the apps default appearance by clicking on the screens background.
 
 ### App Walk-though
-<img src="https://im3.ezgif.com/tmp/ezgif-3-4953963568.gif" width=200><br>
+<img src="https://imgur.com/juGNlET" width=200><br>
+
 
 
 ### Required User Stories
